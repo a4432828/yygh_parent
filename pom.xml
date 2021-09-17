@@ -16,9 +16,10 @@
     </parent>
     <groupId>com.atguigu</groupId>
     <artifactId>yygh_parent</artifactId>
+    <packaging>pom</packaging>
     <version>0.0.1-SNAPSHOT</version>
     <name>yygh_parent</name>
-    <packaging>pom</packaging>
+
     <description>Demo project for Spring Boot</description>
 
     <properties>
